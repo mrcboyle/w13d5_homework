@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d1b7636-aa46-4fed-a0c7-7f6432074dff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/GuitarVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/InstrumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/PianoVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/RecorderVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Enums/SaxophoneVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Saxophone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/DrumSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/GuitarStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/items/SheetMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DrumSticksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GuitarStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GuitarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PianoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RecorderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SaxophoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SheetMusicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cc8M3k6il6MP39TizNRPM5EIU0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ShopTest">
+    <configuration name="GuitarStringsTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="GuitarStringsTest" />
+        <pattern testClass="DrumSticksTest" />
+        <pattern testClass="SheetMusicTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuitarTest and 3 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="GuitarTest" />
+        <pattern testClass="PianoTest" />
+        <pattern testClass="RecorderTest" />
+        <pattern testClass="SaxophoneTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuitarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuitarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SheetMusicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SheetMusicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.SheetMusicTest" />
+        <item itemvalue="JUnit.GuitarStringsTest and 2 more" />
+        <item itemvalue="JUnit.GuitarTest and 3 more" />
+        <item itemvalue="JUnit.GuitarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d1b7636-aa46-4fed-a0c7-7f6432074dff" name="Changes" comment="" />
+      <created>1659090462845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659090462845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
